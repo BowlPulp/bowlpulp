@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 [![BowlPulp's GitHub stats](https://github-readme-stats.vercel.app/api?username=bowlpulp)](https://github.com/anuraghazra/github-readme-stats&theme=transparent)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bowlpulp&layout=compact)
+
+[![An image of @bowlpulp's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bowlpulp)](https://holopin.io/@bowlpulp)
