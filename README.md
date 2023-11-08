@@ -4,7 +4,7 @@
         alt="bowlpulp" /> </p>
         
 - 🔭 I’m currently working on building websites for personal use. 
-<!-- - 🌱 I’m currently learning -->
+- 🌱 I’m currently learning everything! (I know nothing atm ☠️)
 - 📫 How to reach me: bowlpulp@gmail.com
 
 ## 🌐 Social:
