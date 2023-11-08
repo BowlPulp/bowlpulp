@@ -15,3 +15,7 @@
 
 ## 🏆 Github Trophies
 [![An image of @bowlpulp's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bowlpulp)](https://holopin.io/@bowlpulp)
+
+## MonkeyType Stats ( Typing Speed )
+
+![MonkeyType](https://monkeytype-readme.zeabur.app/generate-svg/bowlpulp/dots?pb=true)
