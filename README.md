@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="left"> <img
+        src="https://komarev.com/ghpvc/?username=bowlpulp&label=Profile%20views&color=0e75b6&style=flat"
+        alt="bowlpulp" /> </p>
+        
 
 [![BowlPulp's GitHub stats](https://github-readme-stats.vercel.app/api?username=bowlpulp)](https://github.com/anuraghazra/github-readme-stats&theme=transparent) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bowlpulp&layout=compact)
 
