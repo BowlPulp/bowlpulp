@@ -14,6 +14,7 @@
 [![BowlPulp's GitHub stats](https://github-readme-stats.vercel.app/api?username=bowlpulp)](https://github.com/anuraghazra/github-readme-stats&theme=transparent) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bowlpulp&layout=compact)
 
 ## 🏆 Github Trophies
+![](https://github-profile-trophy.vercel.app/?username=bowlpulp&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 [![An image of @bowlpulp's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bowlpulp)](https://holopin.io/@bowlpulp)
 
 ## MonkeyType Stats ( Typing Speed )
