@@ -20,3 +20,7 @@
 ## MonkeyType Stats ( Typing Speed )
 
 ![MonkeyType](https://monkeytype-readme.zeabur.app/generate-svg/bowlpulp/dots?pb=true)
+
+<a href="https://open.spotify.com/user/31ewkpie6odwrgacpvuhz3pb4ih4"/>
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ewkpie6odwrgacpvuhz3pb4ih4&count=1&width=1000" alt="Spotify"/>
+ </a>
