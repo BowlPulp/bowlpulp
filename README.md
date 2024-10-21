@@ -6,6 +6,11 @@
 - 🔭 I’m currently working on building websites for personal use. 
 - 🌱 I’m currently learning everything! (I know nothing atm ☠️)
 - 📫 How to reach me: bowlpulp@gmail.com
+## Languages and Tools:
+
+[![My Skills](https://skillicons.dev/icons?i=python,java,javascript,react,cpp)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,html,css,tailwind,mysql,docker,postman)](https://skillicons.dev)
 
 ## 🌐 Social:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bowlpulp/) 
