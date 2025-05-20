@@ -3,8 +3,7 @@
         src="https://komarev.com/ghpvc/?username=bowlpulp&label=Profile%20views&color=0e75b6&style=flat"
         alt="bowlpulp" /> </p>
         
-- 🔭 I’m currently working on building websites for personal use. 
-- 🌱 I’m currently learning everything! (I know nothing atm ☠️)
+- 🌱 View my live projects at: https://kartikarora.tech/
 - 📫 How to reach me: bowlpulp@gmail.com
 ## Languages and Tools:
 
