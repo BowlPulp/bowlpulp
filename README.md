@@ -11,9 +11,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,git,github,html,css,tailwind,mysql,docker,postman)](https://skillicons.dev)
 
-## 🌐 Social:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bowlpulp/) 
-        
 ## 🔥 Github Stats
 [![BowlPulp's GitHub stats](https://github-readme-stats.vercel.app/api?username=bowlpulp)](https://github.com/anuraghazra/github-readme-stats&theme=transparent) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bowlpulp&layout=compact)
 
