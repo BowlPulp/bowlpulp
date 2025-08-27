@@ -17,7 +17,7 @@
 ## 🏆 Github Trophies
 ![](https://github-profile-trophy.vercel.app/?username=bowlpulp&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 [![An image of @bowlpulp's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bowlpulp)](https://holopin.io/@bowlpulp)
-
+<!--
 ## MonkeyType Stats ( Typing Speed )
 
 ![MonkeyType](https://monkeytype-readme.zeabur.app/generate-svg/bowlpulp/dots?pb=true)
@@ -25,3 +25,4 @@
 <a href="https://open.spotify.com/user/31ewkpie6odwrgacpvuhz3pb4ih4"/>
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ewkpie6odwrgacpvuhz3pb4ih4&count=1&width=1000" alt="Spotify"/>
  </a>
+-->
