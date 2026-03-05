@@ -3,7 +3,7 @@
         src="https://komarev.com/ghpvc/?username=bowlpulp&label=Profile%20views&color=0e75b6&style=flat"
         alt="bowlpulp" /> </p>
         
-- 🌱 View my live projects at: https://kartikarora.tech/
+- 🌱 View my live projects at: https://bowlpulp.com/
 - 📫 How to reach me: bowlpulp@gmail.com
 ## Languages and Tools:
 
