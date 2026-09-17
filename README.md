@@ -10,7 +10,6 @@
 
 <p align="center">
   <a href="mailto:bowlpulp@gmail.com">Email</a>
-  &nbsp; · &nbsp;
 </p>
 
 ---
