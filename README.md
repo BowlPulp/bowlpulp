@@ -1,28 +1,50 @@
-<h1 align="center">Hi there 👋, I am BowlPulp</h1> 
-<p align="left"> <img
-        src="https://komarev.com/ghpvc/?username=bowlpulp&label=Profile%20views&color=0e75b6&style=flat"
-        alt="bowlpulp" /> </p>
-        
-- 🌱 View my live projects at: https://bowlpulp.com/
-- 📫 How to reach me: bowlpulp@gmail.com
-## Languages and Tools:
+<h1 align="center">Hey, I'm Kartik 👋</h1>
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,javascript,react,cpp)](https://skillicons.dev)
+<p align="center">
+  <b>Full-Stack Developer building things for the web.</b>
+</p>
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,html,css,tailwind,mysql,docker,postman)](https://skillicons.dev)
+<p align="center">
+  I like turning ideas into products — from the first line of code to deployment.
+</p>
 
-## 🔥 Github Stats
-[![BowlPulp's GitHub stats](https://github-readme-stats.vercel.app/api?username=bowlpulp)](https://github.com/anuraghazra/github-readme-stats&theme=transparent) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bowlpulp&layout=compact)
+<p align="center">
+  <a href="https://bowlpulp.com">bowlpulp.com</a>
+  &nbsp; · &nbsp;
+  <a href="mailto:bowlpulp@gmail.com">Email</a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/bowlpulp">GitHub</a>
+</p>
 
-## 🏆 Github Trophies
-![](https://github-profile-trophy.vercel.app/?username=bowlpulp&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-[![An image of @bowlpulp's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bowlpulp)](https://holopin.io/@bowlpulp)
-<!--
-## MonkeyType Stats ( Typing Speed )
+---
 
-![MonkeyType](https://monkeytype-readme.zeabur.app/generate-svg/bowlpulp/dots?pb=true)
+## About
 
-<a href="https://open.spotify.com/user/31ewkpie6odwrgacpvuhz3pb4ih4"/>
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ewkpie6odwrgacpvuhz3pb4ih4&count=1&width=1000" alt="Spotify"/>
- </a>
--->
+I'm Kartik, a Computer Science student and full-stack developer based in India.
+
+I enjoy building **web apps, SaaS products and tools** that solve real problems. 
+Most of my work involves working across the entire stack — UI, APIs, databases, 
+authentication and deployment.
+
+Outside of code, I'm usually somewhere between **startups, gaming, crypto and 
+building the next random idea that came into my head.**
+
+### Currently
+
+- 🔨 Building products and client projects through **[BowlPulp](https://bowlpulp.com)**
+- 🌐 Working primarily with **Next.js, React & Node.js**
+- 🧠 Exploring **AI, SaaS & developer tools**
+- 💼 Open to **internships, freelance work & collaborations**
+
+---
+
+## What I Build
+
+```text
+Frontend        →  React · Next.js · TypeScript · Tailwind
+Backend         →  Node.js · Express · REST APIs
+Databases       →  PostgreSQL · MongoDB · Supabase
+ORM / Tools     →  Prisma · Redis · Git · Docker
+Infrastructure  →  Vercel · Render · Cloudinary
+Payments        →  Razorpay · Stripe
+APIs            →  Moralis · Etherscan
