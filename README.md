@@ -9,11 +9,8 @@
 </p>
 
 <p align="center">
-  <a href="https://bowlpulp.com">bowlpulp.com</a>
-  &nbsp; · &nbsp;
   <a href="mailto:bowlpulp@gmail.com">Email</a>
   &nbsp; · &nbsp;
-  <a href="https://github.com/bowlpulp">GitHub</a>
 </p>
 
 ---
